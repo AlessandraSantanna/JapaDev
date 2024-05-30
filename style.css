@@ -334,10 +334,12 @@ color:#fff;
 }
 
 .box-container {
-    display:gid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1rem));
+    display:grid;
+    padding: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(40rem, 1rem));
     gap: 1rem;
     align-items: center;
+
     
 
 }
