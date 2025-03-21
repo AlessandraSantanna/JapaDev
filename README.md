@@ -1,5 +1,7 @@
 # Japa Food - Delícias Orientais
 
+![Captura de tela 2025-03-21 202542](https://github.com/user-attachments/assets/f8025534-582d-4ad3-a770-35a46cf82821)
+
 Este projeto é um website dedicado à culinária japonesa, apresentando um cardápio apetitoso e informações sobre a localização do nosso restaurante.
 
 ## Descrição
