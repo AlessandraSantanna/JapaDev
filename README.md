@@ -4,7 +4,7 @@ Este projeto é um website dedicado à culinária japonesa, apresentando um card
 
 ## Descrição
 
-O website "Sabores do Japão" foi desenvolvido para proporcionar aos visitantes uma experiência imersiva na gastronomia japonesa. Ele oferece um cardápio online com fotos e descrições detalhadas dos pratos, além de informações sobre a localização do restaurante e como chegar.
+O website "Japa Food" foi desenvolvido para proporcionar aos visitantes uma experiência imersiva na gastronomia japonesa. Ele oferece um cardápio online com fotos e descrições detalhadas dos pratos, além de informações sobre a localização do restaurante e como chegar.
 
 ## Funcionalidades
 
